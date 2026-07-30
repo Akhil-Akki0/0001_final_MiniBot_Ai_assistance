@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010103"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AKKIO"
+        android:textColor="#FF0000"
+        android:textSize="48sp"
+        android:fontFamily="sans-serif-black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="AI ASSISTANT"
+        android:textColor="#666666"
+        android:textSize="12sp"
+        android:letterSpacing="0.2" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="200dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="40dp"
+        android:text="LAUNCH AKKIO"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#FF0000"
+        android:textSize="16sp" />
+
+</LinearLayout>
