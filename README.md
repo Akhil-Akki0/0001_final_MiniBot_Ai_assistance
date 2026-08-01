@@ -76,7 +76,3 @@ Open 15+ apps via voice: YouTube, Chrome, Instagram, WhatsApp, Spotify, Facebook
 | **Data Parsing** | JSON (org.json) |
 | **Security** | EncryptedSharedPreferences (AES-256) |
 | **Build** | Gradle 9.4.1, AGP 8.9.1, JDK 17 |
-
----
-
-## 📂 Project Structure
