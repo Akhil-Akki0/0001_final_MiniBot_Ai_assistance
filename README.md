@@ -59,7 +59,7 @@ Open 15+ apps via voice: YouTube, Chrome, Instagram, WhatsApp, Spotify, Facebook
 - Fun facts
 - Engaging personality
 
----
+
  Tech Stack
 
 | Category | Technology |
